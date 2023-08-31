@@ -56,10 +56,4 @@
 
 ###
 
-<img align="right" height="170" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/krishnadev165/krishnadev165/snake.svg" alt="Snake animation" />
-
 ###
