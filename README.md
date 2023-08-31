@@ -46,7 +46,7 @@
 <br clear="both">
 
 <div align="center">
-  <a href="www.linkedin.com/in/rama-krishnan-538853280" target="_blank">
+  <a href="linkedin.com/in/rama-krishnan-538853280/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="20" alt="linkedin logo"  />
   </a>
   <a href="https://www.behance.net/rama-krishnan" target="_blank">
